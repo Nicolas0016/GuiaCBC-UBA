@@ -2,9 +2,9 @@
 
 Bienvenido a la GuíaCBC-UBA, tu recurso esencial para navegar el Ciclo Básico Común en la Universidad de Buenos Aires.
 
-## Estructura de Carpetas
+## Ruta de Aprendizaje
 
-- [Curso Previo de Matemáticas](./Curso_Previo_Matemáticas/): Material de estudio y recursos para el curso previo de matemáticas.
+- [Curso Previo de Matemáticas](./Curso_Previo_Matematicas/): Material de estudio y recursos para el curso previo de matemáticas.
 - [Física](./Física/): Recursos relacionados con el curso de Física.
 - [Pensamiento Computacional](./Pensamiento_Computacional/): Material introductorio a la programación y herramientas de desarrollo.
 
