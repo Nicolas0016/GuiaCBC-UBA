@@ -1,4 +1,4 @@
-# GuíaCBC-UBA
+# Guia del CBC para Nuevos Ingresantes de la Universidad de Buenos Aires
 
 Bienvenido a la GuíaCBC-UBA, tu recurso esencial para navegar el Ciclo Básico Común en la Universidad de Buenos Aires.
 
