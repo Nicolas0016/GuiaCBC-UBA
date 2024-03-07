@@ -1,4 +1,4 @@
-# <center>Notas Para el Curso Previo de Matemáticas</center>
+# Notas Para el Curso Previo de Matemátic
 
 1. [Propiedades de Potencias](#propiedades-de-potencias)
 
@@ -29,130 +29,104 @@
 ### Propiedad de la multiplicación
 Si tienes dos potencias con la misma base, puedes multiplicarlas manteniendo la base y sumando los exponentes:
 
-<center>
-
 ![alt text](img/image.png)
-
-</center>
 
 ---
 
 ### Propiedad de la división
 Al dividir dos potencias con la misma base, puedes restar los exponentes manteniendo la base:
 
-<center>
+
 
 ![alt text](img/image-1.png)
-
-</center>
 
 ---
 
 ### Propiedad de la potencia de una potencia
 Cuando tienes una potencia elevada a otra potencia, puedes multiplicar los exponentes:
 
-<center>
+
 
 ![alt text](img/image-2.png)
-
-</center>
 
 ---
 
 ### Propiedad del cociente de potencias
 Para el cociente de dos potencias con la misma base, restas los exponentes:
 
-<center>
+
 
 ![alt text](img/image-3.png)
-
-</center>
 
 ---
 
 ### Potencia de un producto
 Al elevar un producto a una potencia, puedes distribuir la potencia a cada factor:
 
-<center>
+
 
 ![alt text](img/image-4.png)
-
-</center>
 
 ---
 
 ### Potencia de un cociente
 Al elevar un cociente a una potencia, puedes distribuir la potencia a cada término del cociente:
 
-<center>
+
 
 ![alt text](img/image-5.png)
-
-</center>
 
 ---
 
 ### Potencia de exponente cero
 Cualquier número elevado a cero es igual a uno:
 
-<center>
+
 
 ![alt text](img/image-6.png)
-
-</center>
 
 ---
 
 ### Potencia de exponente uno
 Cualquier número elevado a uno es igual a sí mismo:
 
-<center>
+
 
 ![alt text](img/image-7.png)
-
-</center>
 
 ---
 
 ### Potencia de base uno
 Uno elevado a cualquier exponente es igual a uno:
 
-<center>
+
 
 ![alt text](img/image-8.png)
-
-</center>
 
 ---
 
 ### Potencia de base cero
 Cualquier número diferente de cero elevado a cero no tiene un valor definido.
 
-<center>
+
 
 ![alt text](img/image-9.png)
-
-</center>
 
 ---
 
 ### Potencia con exponente negativo
 Una potencia con exponente negativo se puede expresar como la inversa de la misma potencia con exponente positivo:
 
-<center>
+
 
 ![alt text](img/image-17.png)
-
-</center>
 
 ### Potencia con exponente fraccionario
 Una potencia con exponente fraccionario se puede expresar como la raíz correspondiente de la misma base:
 
-<center>
+
 
 ![alt text](img/image-18.png)
-
-</center>
 
 ## Propiedades de las Raíces
 
@@ -161,20 +135,18 @@ Una potencia con exponente fraccionario se puede expresar como la raíz correspo
 ### Propiedad de la Raíz de un Producto
 
 Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n \), se cumple que:
-<center>
 
-![alt text](image-16.png)
-</center>
+
+![alt text](image-16.png
 ---
 
 ### Propiedad de la Raíz de un Cociente
 
 Para cualquier par de números reales \( a \) y \( b \), donde \( b \neq 0 \), y entero positivo \( n \), se cumple que:
 
-<center>
 
-![alt text](image-15.png)
-</center>
+
+![alt text](image-15.png
 
 ---
 
@@ -182,11 +154,9 @@ Para cualquier par de números reales \( a \) y \( b \), donde \( b \neq 0 \), y
 
 Para cualquier número real \( a \) y entero positivo \( n \), se cumple que:
 
-<center>
+
 
 ![alt text](image-14.png)
-
-</center>
 
 ---
 
@@ -194,11 +164,9 @@ Para cualquier número real \( a \) y entero positivo \( n \), se cumple que:
 
 Para cualquier número real \( a \) y entero positivo \( n \), se cumple que:
 
-<center>
+
 
 ![alt text](image-13.png)
-
-</center>
 
 ---
 
@@ -206,11 +174,9 @@ Para cualquier número real \( a \) y entero positivo \( n \), se cumple que:
 
 Para cualquier número real no negativo \( a \), entero positivo \( n \) y entero \( m \), se cumple que:
 
-<center>
+
 
 ![alt text](image-12.png)
-
-</center>
 
 ---
 
@@ -218,11 +184,9 @@ Para cualquier número real no negativo \( a \), entero positivo \( n \) y enter
 
 Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n \), se cumple que:
 
-<center>
+
 
 ![alt text](image-11.png)
-
-</center>
 
 ---
 
@@ -230,8 +194,6 @@ Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n 
 
 Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n \), se cumple que:
 
-<center>
+
 
 ![alt text](image-10.png)
-
-</center>
