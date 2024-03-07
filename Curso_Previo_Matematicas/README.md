@@ -21,8 +21,8 @@
     - 2.3. [Propiedad de la Raíz Cuadrada de una Potencia](#propiedad-de-la-raíz-cuadrada-de-una-potencia)
     - 2.4. [Propiedad de la Potenciación de una Raíz Cuadrada](#propiedad-de-la-potenciación-de-una-raíz-cuadrada)
     - 2.5. [Propiedad de la Radicación de una Potencia](#propiedad-de-la-radicación-de-una-potencia)
-    - 2.6. [Propiedad de la Raíz Cuadrada de una Suma](#propiedad-de-la-raíz-cuadrada-de-una-suma)
-    - 2.7. [Propiedad de la Raíz Cuadrada de una Resta](#propiedad-de-la-raíz-cuadrada-de-una-resta)
+    - 2.6. [Propiedad de la Raíz de una Suma](#propiedad-de-la-raíz-de-una-suma)
+    - 2.7. [Propiedad de la Raíz de una Resta](#propiedad-de-la-raíz-de-una-resta)
 
 ## Propiedades de las Potencias
 ---
