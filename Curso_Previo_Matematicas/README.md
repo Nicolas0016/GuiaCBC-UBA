@@ -24,6 +24,9 @@
     - 2.6. [Propiedad de la Raíz de una Suma](#propiedad-de-la-raíz-de-una-suma)
     - 2.7. [Propiedad de la Raíz de una Resta](#propiedad-de-la-raíz-de-una-resta)
 
+3. Propiedades de las inecuaciones
+    - 1.1 [Proximamente]
+
 ## Propiedades de las Potencias
 ---
 ### Propiedad de la multiplicación
