@@ -1,4 +1,4 @@
-# Guia del CBC (2024)
+# Guia del CBC - Exactas UBA- (2024)
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_del_CBC-UBA.png">
 <br><br><br>
 Bienvenido a la una guia para hacer el CBC, tu recurso esencial para navegar el Ciclo Básico Común en la Universidad de Buenos Aires. Recuerda que este repositorio esta actualizado a el <b> CBC de 2024</b> así que pueden haber unos cambios.
