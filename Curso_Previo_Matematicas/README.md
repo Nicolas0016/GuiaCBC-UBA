@@ -1,6 +1,6 @@
 # Notas Para el Curso Previo de Matemática
 
-1. [Propiedades de Potencias](#propiedades-de-potencias)
+1. [Propiedades de Potencias](#propiedades-de-las-potencias)
 
     - 1.1. [Propiedad de la multiplicación](#propiedad-de-la-multiplicación)
     - 1.2. [Propiedad de la división](#propiedad-de-la-división)
