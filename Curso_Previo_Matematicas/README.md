@@ -1,4 +1,4 @@
-# Notas Para el Curso Previo de Matemátic
+# Notas Para el Curso Previo de Matemática
 
 1. [Propiedades de Potencias](#propiedades-de-potencias)
 
