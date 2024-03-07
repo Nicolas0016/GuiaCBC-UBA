@@ -137,7 +137,8 @@ Una potencia con exponente fraccionario se puede expresar como la raíz correspo
 Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n \), se cumple que:
 
 
-![alt text](image-16.png
+![alt text](img/image-16.png)
+
 ---
 
 ### Propiedad de la Raíz de un Cociente
@@ -146,7 +147,7 @@ Para cualquier par de números reales \( a \) y \( b \), donde \( b \neq 0 \), y
 
 
 
-![alt text](image-15.png
+![alt text](img/image-15.png)
 
 ---
 
@@ -156,7 +157,7 @@ Para cualquier número real \( a \) y entero positivo \( n \), se cumple que:
 
 
 
-![alt text](image-14.png)
+![alt text](img/image-14.png)
 
 ---
 
@@ -166,7 +167,7 @@ Para cualquier número real \( a \) y entero positivo \( n \), se cumple que:
 
 
 
-![alt text](image-13.png)
+![alt text](img/image-13.png)
 
 ---
 
@@ -176,7 +177,7 @@ Para cualquier número real no negativo \( a \), entero positivo \( n \) y enter
 
 
 
-![alt text](image-12.png)
+![alt text](img/image-12.png)
 
 ---
 
@@ -186,7 +187,7 @@ Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n 
 
 
 
-![alt text](image-11.png)
+![alt text](img/image-11.png)
 
 ---
 
@@ -194,6 +195,4 @@ Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n 
 
 Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n \), se cumple que:
 
-
-
-![alt text](image-10.png)
+![alt text](img/image-10.png)
