@@ -24,8 +24,15 @@
     - 2.6. [Propiedad de la Raíz de una Suma](#propiedad-de-la-raíz-de-una-suma)
     - 2.7. [Propiedad de la Raíz de una Resta](#propiedad-de-la-raíz-de-una-resta)
 
-3. Propiedades de las inecuaciones
-    - 1.1 [Proximamente]
+3. [Propiedades de las inecuaciones](#inecuaciones)
+    - 1.1. [Definición de Inecuación](#definición-de-inecuación)
+    - 1.3. [Propiedad reflexiva](#propiedad-reflexiva)
+    - 1.4. [Propiedad Aditiva](#propiedad-aditiva)
+    - 1.5. [Propiedad multiplicativa](#propiedad-multiplicativa)
+    - 1.6 [Propiedad de la división](#propiedad-de-la-división-inecuaciones)
+    - 1.7 [Propiedad transitiva](#propiedad-transitiva)
+    - 1.8 [Propiedad tricotómica](#propiedad-tricotómica)
+
 
 ## Propiedades de las Potencias
 ---
@@ -199,3 +206,62 @@ Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n 
 Para cualquier par de números reales \( a \) y \( b \), y entero positivo \( n \), se cumple que:
 
 ![alt text](img/image-10.png)
+
+---
+
+## Inecuaciones
+### Definición de Inecuación
+
+Una inecuación es una desigualdad que involucra una o más variables. Se resuelve de manera similar a una ecuación, pero en lugar de obtener una solución exacta, se obtiene un conjunto de soluciones que satisfacen la desigualdad.
+
+---
+
+### Inversión del signo de la desigualdad
+Cuando multiplicas o divides ambos lados de una desigualdad por un número negativo, el signo de la desigualdad se invierte
+
+![alt text](img/image19.png)
+
+---
+
+### Propiedad reflexiva
+Para cualquier número real a, se cumple que
+
+![alt text](img/image20.png)
+
+---
+
+### Propiedad aditiva
+
+Si `a < b` entonces... 
+
+![alt text](img/image21.png)
+
+---
+
+### Propiedad multiplicativa
+Si `a < b` y `c > 0`, entonces...
+
+![alt text](img/image22.png)
+
+Pero si c < 0, entonces ac > bc.
+
+---
+
+### Propiedad de la división inecuaciones
+Si `a < b` y `c > 0`, entonces...
+
+![alt text](image.png)
+
+---
+
+### Propiedad transitiva
+
+Si `a < b`  y `b < c`, entonces  `a < c`.
+
+---
+
+### Propiedad tricotómica
+
+Para cualquier par de números reales a y b, uno y solo uno de los siguientes es verdadero: `a < b`, `a = b`, `a > b`.
+
+
