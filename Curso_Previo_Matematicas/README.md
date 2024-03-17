@@ -26,12 +26,13 @@
 
 3. [Propiedades de las inecuaciones](#inecuaciones)
     - 1.1. [Definición de Inecuación](#definición-de-inecuación)
+    - 1.2. [Inversión del signo de la desigualdad](#inversión-del-signo-de-la-desigualdad)
     - 1.3. [Propiedad reflexiva](#propiedad-reflexiva)
     - 1.4. [Propiedad Aditiva](#propiedad-aditiva)
     - 1.5. [Propiedad multiplicativa](#propiedad-multiplicativa)
-    - 1.6 [Propiedad de la división](#propiedad-de-la-división-inecuaciones)
-    - 1.7 [Propiedad transitiva](#propiedad-transitiva)
-    - 1.8 [Propiedad tricotómica](#propiedad-tricotómica)
+    - 1.6. [Propiedad de la división](#propiedad-de-la-división-inecuaciones)
+    - 1.7. [Propiedad transitiva](#propiedad-transitiva)
+    - 1.8. [Propiedad tricotómica](#propiedad-tricotómica)
 
 
 ## Propiedades de las Potencias
