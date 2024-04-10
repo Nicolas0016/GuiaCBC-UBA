@@ -22,3 +22,5 @@ En esta primera clase de pensamiento computacional, nos centraremos en establece
 
 - <b>Datos Aleatorios</b>: Aprende a utilizar librerias en python, en este caso usamos una para generar numeros aleatorios.
   [Link a Generar Números Random](./random.ipynb)
+
+### [Ejercicio](../../ejercicios/ejercicio01.py)
