@@ -13,3 +13,6 @@ Bienvenido al repositorio dedicado al pensamiento computacional. Aquí encontrar
 
 - Dedica tiempo a estudiar el material proporcionado, revisar ejemplos de código y practicar los conceptos aprendidos.
 - Contribuir (Opcional): Si lo deseas, puedes contribuir al repositorio clonado agregando tus propias mejoras, correcciones o ejercicios adicionales.
+
+# [Link del grupo de WhatsApp](https://chat.whatsapp.com/C9H2LblL9e0HAoeQF3Wvu6)
+
