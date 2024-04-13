@@ -1,4 +1,4 @@
-# Temas Abordados en la clase 4 de Pensamiento Computacional.
+# Temas Abordados en la clase 3 de Pensamiento Computacional.
 
 ### [Respondemos sobre figus simulando](./respuestaFiguritas.ipynb)
 
