@@ -14,7 +14,7 @@ Durante la clase, estudiamos el uso de condicionales en Python. Estas estructura
 
 Recorrer listas es una habilidad fundamental en programación. En esta sesión, repasamos cómo iterar sobre elementos de una lista y acceder a cada uno de ellos. Esto resultó útil para manipular la información relacionada con las figuritas en nuestro programa.
 
-### [Sacar promedio]()
+### [Sacar promedio](./sacarPromedio.ipynb)
 
 Calcular el promedio es una operación común en análisis de datos y estadísticas. En la clase, vimos cómo calcular el promedio de un conjunto de valores utilizando Python. Esta habilidad es útil en una variedad de contextos, incluido el procesamiento de datos en nuestro programa de álbum de figuritas.
 
@@ -27,8 +27,8 @@ Las funciones nos permiten organizar y reutilizar código de manera eficiente. D
 1. Hacer un programa que simule el llenado de un álbum dinámicamente: Durante la sesión, se asignó esta tarea para que los estudiantes aplicaran los conceptos aprendidos sobre condicionales, recorrido de listas y funciones en la creación de un programa que simule el llenado de un álbum de figuritas.<br>[actividad03.py](../../ejercicios/ejercicio03.py)<br>
    [Respuesta](../../ejercicios/respuestas/ejercicio03.py)
 
-2. Establecer un valor máximo para la cantidad de figuritas que el usuario puede comprar (11): Para promover la práctica de la lógica condicional, se propuso limitar la cantidad máxima de figuritas que un usuario puede comprar en una sola transacción. Esta restricción fomenta la planificación y toma de decisiones en el diseño del programa.<br>
-   más información-->[actividad04.py]()<br>[Respuesta]()
+2. Establecer un valor máximo para la cantidad de figuritas que el usuario puede comprar (11): Para promover la práctica de la lógica condicional, se propuso limitar la cantidad máxima de figuritas que un usuario puede comprar en una sola transacción.<br>
+   más información-->[actividad04.py](../../ejercicios/ejercicios04.py)<br>[Respuesta](../../ejercicios/respuestas/ejercicios04.py)
 
 # NOTAS DE LA CLASE
 
