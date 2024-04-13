@@ -22,6 +22,10 @@ Calcular el promedio es una operación común en análisis de datos y estadísti
 
 Las funciones nos permiten organizar y reutilizar código de manera eficiente. Durante la clase, aprendimos a definir y utilizar funciones en Python para encapsular tareas específicas. Esto facilita la modularidad y mantenibilidad del código.
 
+### [.append()](./append.ipynb)
+
+El método `append()` en Python se utiliza para agregar un elemento al final de una lista.
+
 ## Actividades
 
 1. Hacer un programa que simule el llenado de un álbum dinámicamente: Durante la sesión, se asignó esta tarea para que los estudiantes aplicaran los conceptos aprendidos sobre condicionales, recorrido de listas y funciones en la creación de un programa que simule el llenado de un álbum de figuritas.<br>[actividad03.py](../../ejercicios/ejercicio03.py)<br>
