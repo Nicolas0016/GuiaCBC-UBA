@@ -8,9 +8,6 @@ En esta primera clase de pensamiento computacional, nos centraremos en establece
 - <b>Operaciones Matemáticas</b>: Aprende sobre las operaciones matemáticas básicas en Python y cómo aplicarlas en tus cálculos.
   [Link Operaciones Matemáticas](./operacionesMatematicas.ipynb)
 
-- <b>Condicionales</b>: Comprende cómo utilizar declaraciones condicionales para controlar el flujo de tu programa y tomar decisiones basadas en ciertas condiciones.
-  [Link a condicionales](./condicionales.ipynb)
-
 - <b>Operadores Lógicos</b>: Explora los operadores lógicos como and, or y not, y cómo se utilizan para evaluar expresiones booleanas.
   [Link a operadores lógicos](./operadoresLogicos.ipynb)
 
