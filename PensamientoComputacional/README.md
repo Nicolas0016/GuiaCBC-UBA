@@ -16,3 +16,4 @@ Bienvenido al repositorio dedicado al pensamiento computacional. Aquí encontrar
 
 # [Link del grupo de WhatsApp](https://chat.whatsapp.com/C9H2LblL9e0HAoeQF3Wvu6)
 
+![alt img](<./IMG-20240410-WA0005%20(1).jpg>)
