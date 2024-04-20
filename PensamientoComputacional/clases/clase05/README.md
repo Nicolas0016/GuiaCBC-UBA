@@ -2,11 +2,11 @@
 
 ![Pizarra de la clase 5](../../pizarron/clase05.png)
 
-## [Bucle for](./):
+## [Bucle for](./for.ipynb):
 
 La sentencia `for` se utiliza para ejecutar bucles finitos, lo que significa que sabemos que terminarán en algún momento y no continuarán por una acción.
 
-## [Range()](./):
+## [Range()](./range.ipynb):
 
 La función `range` devuelve una lista ordenada de números.
 
