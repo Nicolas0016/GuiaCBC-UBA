@@ -9,4 +9,4 @@
 ### volvemos al 7 y medio.
 
 [ejercicio](../../ejercicios/ejercicio05.py)<br>
-[Respuesta](../../ejercicios/respuestas/)
+[Respuesta](../../ejercicios/respuestas/ejercicio05.py)
